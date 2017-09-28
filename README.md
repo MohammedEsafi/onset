@@ -1,1 +1,1 @@
-# Magic_Ows_V1.7
+# Magic_Ows
