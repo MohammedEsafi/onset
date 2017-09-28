@@ -1,0 +1,423 @@
+/*
+* ----------------------------------------------------------------------------------
+Author       : Evenows
+Template Name: Magic Ows - Portfolio Template
+Version      : 1.0
+* ----------------------------------------------------------------------------------
+*/
+
+/* =================================================================================
+ * tablets Layout : 991px;
+ * ================================================================================= */
+@media (max-width: 991px) {
+    .navbar-light .navbar-collapse {
+        position: absolute;
+        width: 100%;
+        top: 63px;
+    }
+    .navbar-light .navbar-nav > .nav-item {
+        border-top: 1px solid rgba(200,204,207,.25);
+        border-left: none;
+        height: initial;
+    }
+    .navbar-light .navbar-nav > .nav-item a::before {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-item .active::before {
+        display: none;
+    }
+    .navbar-nav .nav-link {
+        padding: 1.4em 0;
+    }
+    .navbar-light .navbar-nav > .nav-item a {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: initial;
+        -webkit-justify-content: initial;
+        -ms-flex-pack: initial;
+        justify-content: initial;
+        -webkit-box-orient: initial;
+        -webkit-box-direction: initial;
+        -webkit-flex-direction: initial;
+        -ms-flex-direction: initial;
+        flex-direction: initial;
+    }
+    .account .nav-item {
+        width: 50%;
+        border-top: 1px solid rgba(200,204,207,.25);
+        border-right: 1px solid rgba(158, 158, 158, 0.3);
+        border-bottom: 1px solid rgba(218, 212, 212, 0.86);
+        height: initial;
+    }
+    .account .nav-item:last-child {
+        border-right: initial;;
+    }
+    .account .nav-item .nav-link span {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link i {
+        margin-bottom: 0;
+        width: 35px;
+    }
+    .navbar-light .navbar-nav .sign-up i ,
+    .navbar-light .navbar-nav .login i {
+        width: 100%;
+    }
+    .account .nav-item .nav-link i {
+        color: rgba(218, 212, 212, 0.86);
+        font-size: 15px;
+    }
+    .navbar-light .navbar-nav .sign-up ,
+    .navbar-light .navbar-nav .login {
+        background: rgba(239, 235, 235, 0.3);
+        padding: 1.4em 0;
+    }
+    .navbar-brand {
+    	margin-left: 1.5rem;
+    }
+    .main-content .main-text h1 {
+        font-size: 30px;
+    }
+    .quote .holder {
+        padding: 6.5rem 0;
+    }
+    .quote .holder .content_quote blockquote {
+        font-size: 22px;
+    }
+    .subscribe {
+        width: 70%;
+    }
+    .border_top_footer img {
+        width: 125%;
+    }
+    .footer_menu {
+        width: 100%;
+        float: initial;
+    }
+    .footer_list_menu {
+        float: inherit;
+        text-align: center;
+    }
+}
+/* =================================================================================
+ * landscape phones Layout : 767px;
+ * ================================================================================= */
+@media (max-width: 767px) {
+    .main-content .main-text h1 {
+        font-size: 25px;
+        line-height: 2.5rem;
+    }
+    .about_our_company .about_text p {
+        padding: 0 7px;
+    }
+    .owl-theme .owl-nav {
+        display: none;
+    }
+    #statistic_1 {
+        border-radius: 1.75px 0 0 0;
+        border-right: 1px solid rgba(252,252,252,0.7);
+        border-bottom: 1px solid rgba(252,252,252,0.7);
+    }
+    #statistic_2 {
+        border-radius: 0 1.75px 0 0;
+        border-right: none;
+        border-bottom: 1px solid rgba(252,252,252,0.7);
+    }
+    #statistic_3 {
+        border-right: 1px solid rgba(252,252,252,0.7);
+        border-radius: 0 0 0 1.75px;
+    }
+    #statistic_4 {
+        border-radius: 0 0 1.75px 0;
+    }
+    .quote .holder {
+        padding: 5.5rem 0;
+    }
+    .quote .holder .content_quote blockquote {
+        font-size: 20px;
+    }
+    .subscribe {
+        width: 80%;
+    }
+    .on_section p {
+        font-size: 15px;
+    }
+    #mc-embedded-subscribe ,
+    #mce-EMAIL ,
+    #mce-EMAIL::placeholder {
+        font-size: 12px;
+    }
+    #mce-EMAIL::-webkit-input-placeholder {
+        font-size: 12px;
+    }
+    #mce-EMAIL::-moz-placeholder {
+        font-size: 12px;
+    }
+    #mce-EMAIL:-ms-input-placeholder {
+        font-size: 12px;
+    }
+    #mce-EMAIL {
+        width: 80%;
+    }
+    #mc-embedded-subscribe {
+        width: 20%;
+    }
+    .border_top_footer img {
+        width: 150%;
+    }
+}
+/* =================================================================================
+ * Wide Mobile Layout : 575px;
+ * ================================================================================= */
+@media (max-width: 575px) {
+    .header_section .description p {
+        font-size: 14px;
+    }
+    .about_our_services .tab_set li p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .main-content .main-text h1 {
+        font-size: 20px;
+        line-height: 2rem;
+    }
+    .main-content .main-button button {
+        margin: 5px 10px;
+    }
+    .main-content .main-button button a {
+        padding: 7px 13px;
+    }
+    .option .active a:before, .option .active a:after {
+        opacity: 0;
+    }
+    .option .line {
+        display: none;
+    }
+    .about_our_services .option .cucumber {
+        margin-right: 10px;
+    }
+    .about_our_services .option .cucumber:last-child {
+        margin-bottom: auto;
+    }
+    .option li {
+        width: 17% !important;
+    }
+    .about_our_company .about_text p {
+        font-size: 14px;
+    }
+    .utilities .text_utilities p {
+        margin-bottom: 16px;
+    }
+    .progression {
+        margin-bottom: .9rem;
+        height: 1.35rem;
+    }
+    .item_name {
+        height: 1.35rem;
+        line-height: 1.35rem;
+        padding: 0 1.35rem;
+    }
+    .skill_percent {
+        height: 1.35rem;
+        line-height: 1.35rem;
+    }
+    .portfolio_classification .btn-primary {
+        padding: 7px;
+        font-size: 12px;
+    }
+    .box_project {
+        padding: 10px 60px;
+    }
+    .gift {
+        padding: 10px 60px;
+    }
+    #statistic_1 {
+        border-radius: 1.75px 1.75px 0 0;
+        border-right: none;
+        border-bottom: 1px solid rgba(252,252,252,0.7);
+    }
+    #statistic_2 {
+        border-radius: 0 0 0 0;
+        border-right: none;
+        border-bottom: 1px solid rgba(252,252,252,0.7);
+    }
+    #statistic_3 {
+        border-right: none;
+        border-bottom: 1px solid rgba(252,252,252,0.7);
+        border-radius: 0 0 0 0;
+    }
+    #statistic_4 {
+        border-radius: 0 0 1.75px 1.75px;
+    }
+    .quote .holder {
+        padding: 4.5rem 0;
+    }
+    .quote .holder .content_quote blockquote {
+        font-size: 18px;
+    }
+    .team_members {
+        padding: 0 45px;
+    }
+    .subscribe {
+        width: 90%;
+    }
+    .on_section p {
+        font-size: 14px;
+    }
+    #mc-embedded-subscribe ,
+    #mce-EMAIL ,
+    #mce-EMAIL::placeholder {
+        font-size: 11px;
+    }
+    #mce-EMAIL::-webkit-input-placeholder {
+        font-size: 11px;
+    }
+    #mce-EMAIL::-moz-placeholder {
+        font-size: 11px;
+    }
+    #mce-EMAIL:-ms-input-placeholder {
+        font-size: 11px;
+    }
+    #mce-EMAIL {
+        width: 78%;
+    }
+    #mc-embedded-subscribe {
+        width: 22%;
+    }
+    .note p {
+        font-size: 12px;
+    }
+    textarea {
+        min-height: 150px;
+    }
+    .border_top_footer img {
+        width: 190%;
+    }
+    .footer_list_menu li {
+        margin: 0;
+        width: 50%;
+        float: left;
+    }
+    .footer_list_menu li h5 {
+        font-size: 11.5px;
+    }
+    .footer_list_menu li p {
+        font-size: 10.5px;
+    }
+}
+/* =================================================================================
+ * Mobile Layout : 370px;
+ * ================================================================================= */
+@media (max-width: 370px) {
+    .header_section .description p {
+        font-size: 13px;
+    }
+    .about_our_services .tab_set li p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .main-content .main-text h1 {
+        font-size: 15px;
+        line-height: 1.5rem;
+    }
+    .main-content .main-text p {
+        font-size: 13px;
+    }
+    .about_our_services .option .cucumber {
+        margin-right: 7px;
+    }
+    .option li {
+        width: 20% !important;
+    }
+    .utilities .text_utilities p {
+        margin-bottom: 10px;
+    }
+    .progression {
+        margin-bottom: 0.85rem;
+        height: 1.25rem;
+    }
+    .item_name {
+        height: 1.25rem;
+        line-height: 1.25rem;
+        padding: 0 1.25rem;
+    }
+    .skill_percent {
+        height: 1.25rem;
+        line-height: 1.25rem;
+    }
+    .portfolio_classification .btn-primary {
+        padding: 5px;
+        font-size: 11px;
+    }
+    .box_project {
+        padding: 10px 15px;
+    }
+    .gift {
+        padding: 10px 15px;
+    }
+    .view_links span a {
+        padding: 1px 6px;
+        font-size: 11px;
+    }
+    .quote .holder {
+        padding: 3.5rem 0;
+    }
+    .quote .holder .content_quote blockquote {
+        font-size: 16px;
+    }
+    .about_our_company .about_text p {
+        font-size: 13px;
+    }
+    .team_members {
+        padding: 0;
+    }
+    .subscribe {
+        width: 100%;
+    }
+    .on_section p {
+        font-size: 13px;
+    }
+    #mc-embedded-subscribe ,
+    #mce-EMAIL ,
+    #mce-EMAIL::placeholder {
+        font-size: 10px;
+    }
+    #mce-EMAIL::-webkit-input-placeholder {
+        font-size: 10px;
+    }
+    #mce-EMAIL::-moz-placeholder {
+        font-size: 10px;
+    }
+    #mce-EMAIL:-ms-input-placeholder {
+        font-size: 10px;
+    }
+    #mce-EMAIL {
+        width: 75%;
+    }
+    #mc-embedded-subscribe {
+        width: 25%;
+    }
+    .note p {
+        font-size: 11px;
+    }
+    .border_top_footer img {
+        width: 250%;
+    }
+    .footer_list_menu li {
+        width: 100%;
+        text-align: center;
+        float: initial;
+    }
+    .footer_list_menu li h5 {
+        font-size: 10px;
+    }
+    .footer_list_menu li p {
+        font-size: 9px;
+    }
+}

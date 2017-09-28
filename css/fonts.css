@@ -1,0 +1,87 @@
+/* =================================================================================
+ * Larsseit Font
+ * ================================================================================= */
+@font-face {
+    font-family: 'larsseit bold';
+    src: url('../fonts/larsseit/larsseit-bold-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit bold italic';
+    src: url('../fonts/larsseit/larsseit-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit extra bold';
+    src: url('../fonts/larsseit/larsseit-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit extra bold italic';
+    src: url('../fonts/larsseit/larsseit-extrabolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-extrabolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit italic';
+    src: url('../fonts/larsseit/larsseit-italic-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit light';
+    src: url('../fonts/larsseit/larsseit-light-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit light italic';
+    src: url('../fonts/larsseit/larsseit-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit medium';
+    src: url('../fonts/larsseit/larsseit-medium-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit medium italic';
+    src: url('../fonts/larsseit/larsseit-mediumitalic-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit thin';
+    src: url('../fonts/larsseit/larsseit-thin-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit thin italic';
+    src: url('../fonts/larsseit/larsseit-thinitalic-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'larsseit regular';
+    src: url('../fonts/larsseit/larsseit-webfont.woff2') format('woff2'),
+         url('../fonts/larsseit/larsseit-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
