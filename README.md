@@ -1,1 +1,1 @@
-# Magic_Ows
+# MAGIC OWS
