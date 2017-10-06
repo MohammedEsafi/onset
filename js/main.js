@@ -12,7 +12,6 @@ Version      : 1.0
 (function () {
   var height_navbar_nav = $('nav').height(),
       height_navbar_nav_px = height_navbar_nav + 'px';
-  console.log("This is my navigation bar height" + " " + height_navbar_nav_px);
   $('.main-container').css({
     height: 'calc(100vh - '+height_navbar_nav_px+')',
   });
@@ -104,7 +103,7 @@ $(document).ready(function() {
             width: '60%'
         },500)
       });
-      $(".video_close").on('click', function () {
+      $(".modal_close").on('click', function () {
         $(".content_modal").animate({
             opacity: '0',
             width: '0'

@@ -134,12 +134,12 @@
 									<div class="v_modal">
 										<div class="content_modal">
 											<div class="content_video">
-												<!--<video controls class="video_link">
-													<source src="https://drive.google.com/file/d/0BzSpGDsjDK4dcWc0U3UwNThrT0U/preview" type="video/mp4">
-												</video>-->
+												<div class="s_size">
+													<iframe class="video_link" src="https://drive.google.com/file/d/0BzSpGDsjDK4dcWc0U3UwNThrT0U/preview"></iframe>
+												</div>
 											</div>
 										</div>
-										<div class="video_close"></div>
+										<div class="modal_close"></div>
 									</div>
 									<!-- Video Modal end -->
 								</div>
@@ -214,15 +214,15 @@
 							</li>
 							<li id="tab2" class="item_info display_none">
 								<h6>Development</h6>
-								<p id="help_2" class="services_help">We bring your artwork to life by turning it into a dynamic, fully functional, and easy-to-use site coded based on any popular CMS you like : WordPress, Drupal, Joomla, Magento, or Shopify.</p>
+								<p id="help_2" class="services_help">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 							</li>
 							<li id="tab3" class="item_info display_none">
 								<h6>Test</h6>
-								<p id="help_3" class="services_help">We bring your artwork to life by turning it into a dynamic, fully functional, and easy-to-use site coded based on any popular CMS you like : WordPress, Drupal, Joomla, Magento, or Shopify.</p>
+								<p id="help_3" class="services_help">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 							</li>
 							<li id="tab4" class="item_info display_none">
 								<h6>Seo</h6>
-								<p id="help_4" class="services_help">We bring your artwork to life by turning it into a dynamic, fully functional, and easy-to-use site coded based on any popular CMS you like : WordPress, Drupal, Joomla, Magento, or Shopify.</p>
+								<p id="help_4" class="services_help">This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet...", comes from a line in section 1.10.32.</p>
 							</li>
 						</ul>
 					</div>
@@ -802,7 +802,7 @@
 									</div>
 									<div class="view_demo">
 										<div class="element_demo">
-											<a class="popover_about" data-placement="left" data-content="View demo the gift"><i class="ows ows_0320"></i></a>
+											<a href="#" class="popover_about" data-placement="left" data-content="View demo the gift"><i class="ows ows_0320"></i></a>
 										</div>
 									</div>
 								</a>
