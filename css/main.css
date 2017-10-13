@@ -691,10 +691,6 @@ ul {
  * ================================================================================= */
 .about_our_company {
 	padding: 20px 0 15px 0;
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
 }
 .about_our_company .about_img {
 	position: relative;
@@ -703,16 +699,10 @@ ul {
 .about_our_company .about_img img {
 	border-radius: 1.75px;
 }
-.about_our_company .about_text {
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-}
-.about_our_company .about_text p {
+.about_our_company .about_info p {
 	text-align: justify;
 }
-.about_our_company .about_text p span {
+.about_our_company .about_info p span {
 	font-family: 'larsseit extra bold', sans-serif;
 }
 .utilities {
@@ -724,9 +714,6 @@ ul {
 }
 .utilities .img_utilities img {
 	max-width: 38px;
-}
-.utilities .text_utilities {
-	/*height: 7px;*/
 }
 .utilities .text_utilities p {
 	text-align: center;

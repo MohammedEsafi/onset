@@ -233,7 +233,7 @@
 	</section>
 	<!-- end our services section -->
 	<!-- start about our company section -->
-	<section class="section_o_back" id="about">
+	<section class="section_o_back">
 		<div class="container">
 			<!-- start heading and description of section -->
 			<div class="header_section">
@@ -248,10 +248,10 @@
 			</div>
 			<!-- end heading and description of section -->
 			<!-- start information about our company -->
-			<div class="about_our_company">
-				<div class="row justify-content-center">
-					<div class="about_text col-lg-6 col-12 align-items-center">
-						<div class="w-100">
+			<div class="namdh">
+				<div class="row about_our_company">
+					<div class="about_info col-lg-6 col-12 d-flex align-items-center">
+						<div>
 							<p><span>Evenows is designed with attention to details.</span> Our intention is to create a project that would to look cool, It is a long established fact that a reader will. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, making it look like readable English</p>
 							<div class="utilities w-100 text-center">
 								<div class="col-sm-3 col-6">
@@ -1762,7 +1762,7 @@
 					<div class="clear"></div>
 					<div class="bottom_footer">
 						<div class="copyright">
-							<p>Copyright <span>&copy;</span>2017 , <a href="http://www.evenows.com/">Evenows.com</a> , All rights reserved</p>
+							<p>Copyright <span>&copy;</span>2017 , <a target="_black" href="http://www.evenows.com/">Evenows.com</a> , All rights reserved</p>
 						</div>
 					</div>
 				</div>
