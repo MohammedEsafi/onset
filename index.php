@@ -134,8 +134,8 @@
 									<div class="v_modal">
 										<div class="content_modal">
 											<div class="content_video">
-												<div class="s_size">
-													<iframe class="video_link" src="https://drive.google.com/file/d/0BzSpGDsjDK4dcWc0U3UwNThrT0U/preview"></iframe>
+												<div class="s_size" id="vimeoWrap">
+													<iframe class="video_link" frameborder="0" src="https://player.vimeo.com/video/236370796"></iframe>
 												</div>
 											</div>
 										</div>

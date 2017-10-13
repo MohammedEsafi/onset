@@ -109,6 +109,8 @@ $(document).ready(function() {
             width: '0'
         },300,function () {
           $('.v_modal').fadeOut();
+          vimeoWrap = $('#vimeoWrap');
+          vimeoWrap.html( vimeoWrap.html() );
         })
       })
   })
