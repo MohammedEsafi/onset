@@ -1452,6 +1452,15 @@ textarea {
 	resize: none;
 	min-height: 100px;
 }
+.error {
+	padding: 0 7px;
+}
+.error p {
+	text-align: left;
+	margin-bottom: 7px;
+	font-size: 13px;
+	color: rgb(239, 87, 113);
+}
 input#submit {
     text-transform: uppercase;
     text-decoration: none;
@@ -1462,7 +1471,7 @@ input#submit {
     padding: 0 4px;
     font-size: 13px;
     outline: none;
-    cursor: pointer;
+    opacity: 0.3;
 }
 .we_work_with {
 	margin-top: 20px;

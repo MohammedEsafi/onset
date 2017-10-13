@@ -429,26 +429,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
-									</div>
-									<div class="project_preview">
-										<a href="#" target="_black">Preview</a>
-									</div>
-									<div class="project_shopping">
-										<div class="shopping_cart">
-											<a href="#"><i class="ows ows_0111"></i></a>
-										</div>
-									</div>
-								</a>
-							</div>
-						</div>
-					</li>
-					<li class="col-lg-3 col-sm-6 box_project text-center mix iOS">
-						<div class="project_content w-100">
-							<div class="wrap wrapper">
-								<a class="project_view">
-									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\01.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -467,7 +448,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\02.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -486,7 +467,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\03.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -505,7 +486,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\04.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -524,7 +505,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\05.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -543,7 +524,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\06.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -562,7 +543,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\07.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -581,7 +562,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\08.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -600,7 +581,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\09.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -619,7 +600,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\10.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -638,7 +619,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\11.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -657,7 +638,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\12.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -676,7 +657,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\13.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -695,7 +676,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\14.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -714,7 +695,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\15.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -733,7 +714,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\16.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -752,7 +733,7 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\17.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -771,7 +752,26 @@
 							<div class="wrap wrapper">
 								<a class="project_view">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\18.jpg">
+									</div>
+									<div class="project_preview">
+										<a href="#" target="_black">Preview</a>
+									</div>
+									<div class="project_shopping">
+										<div class="shopping_cart">
+											<a href="#"><i class="ows ows_0111"></i></a>
+										</div>
+									</div>
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="col-lg-3 col-sm-6 box_project text-center mix iOS">
+						<div class="project_content w-100">
+							<div class="wrap wrapper">
+								<a class="project_view">
+									<div class="text-center">
+										<img class="w-100 img-fluid" src="img\our_work\19.jpg">
 									</div>
 									<div class="project_preview">
 										<a href="#" target="_black">Preview</a>
@@ -791,7 +791,7 @@
 							<div class="wrap">
 								<a class="bg_gift">
 									<div class="text-center">
-										<img class="w-100 img-fluid" src="img\our_work\01.png">
+										<img class="w-100 img-fluid" src="img\our_work\20.jpg">
 									</div>
 									<div class="mask">
 										<a href="#" class="d-block w-100" style="height: 100%;">
@@ -1648,7 +1648,10 @@
 							<div class="form-group">
 								<textarea class="form-control" placeholder="Your message" name="message"></textarea>
 							</div>
-							<input id="submit" class="submit" type="submit" value="Send Message">
+							<div class="w-100 error">
+								<p id="mail_error"></p>
+							</div>
+							<input id="submit" class="submit" type="submit" value="Send Message" disabled>
 						</form>
 						<!-- end Message content -->
 					</div>
