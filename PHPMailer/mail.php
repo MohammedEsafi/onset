@@ -26,10 +26,16 @@
 		//Content
 		$mail->isHTML(true);                                  // Set email format to HTML
 		$mail->Subject = 'Here is the subject';
-		$mail->Body    = '<b>Sender Phone:</b> '. $cell_phone .'<br/><b>Sender E-mail:</b> '. $email . '<br/><br/><b>Sender Message:</b><br/>' . $msg. '<br/><b>Sender Subject:</b> '.$subject;
+		$mail->Body    = 	'<b>Sender Phone: </b> '. $cell_phone .'
+					<br>
+					<b>Sender E-mail: </b> '. $email . '
+					<br>
+					<b>Sender Message: </b>' . $msg. '
+					<br>
+					<b>Sender Subject: </b> '.$subject;
 
 		$mail->send();
-		echo 'Message has been sent';
+			echo 'Message has been sent';
 	} catch (Exception $e) {
 		echo 'Message could not be sent.';
 		echo 'Mailer Error: ' . $mail->ErrorInfo;

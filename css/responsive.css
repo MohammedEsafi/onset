@@ -15,7 +15,7 @@ Version      : 1.0
         width: 100%;
         top: 63px;
     }
-    .navbar-light .navbar-nav > .nav-item {
+   .navbar-light .navbar-nav > .nav-item {
         border-top: 1px solid rgba(200,204,207,.25);
         border-left: none;
         height: initial;
@@ -38,15 +38,15 @@ Version      : 1.0
         -webkit-align-items: center;
         -ms-flex-align: center;
         align-items: center;
-        -webkit-box-pack: initial;
-        -webkit-justify-content: initial;
-        -ms-flex-pack: initial;
-        justify-content: initial;
-        -webkit-box-orient: initial;
-        -webkit-box-direction: initial;
-        -webkit-flex-direction: initial;
-        -ms-flex-direction: initial;
-        flex-direction: initial;
+        -webkit-box-pack: inherit !important;
+        -webkit-justify-content: inherit !important;
+        -ms-flex-pack: inherit !important;
+        justify-content: inherit !important;
+        -webkit-box-orient: inherit !important;
+        -webkit-box-direction: inherit !important;
+        -webkit-flex-direction: inherit !important;
+        -ms-flex-direction: inherit !important;
+        flex-direction: inherit !important;
     }
     .account .nav-item {
         width: 50%;

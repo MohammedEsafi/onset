@@ -808,17 +808,14 @@ button .ripple {
 .our_works ul {
 	list-style: none;
 }
-/*#list_our_works > li {
-	display: none;
-}*/
 .box_project {
 	padding: 10px;
 }
 .project_content {
 	border-radius: 3px;
 	overflow: hidden;
-    background-color: #FCFCFC;
-    border: 1px solid rgba(25,25,25,.05);
+	background-color: #FCFCFC;
+	border: 1px solid rgba(25,25,25,.1);
 }
 .our_works .wrap {
 	padding-top: 75%;
@@ -897,7 +894,7 @@ button .ripple {
 .shopping_cart i,
 .element_demo i {
 	background: rgba(0,0,0,0.1);
-	color: rgba(101,114,140,0.7);
+	color: rgba(101,114,140,0.9);
 	border-radius: 1px;
 	padding: 3px;
 	transition: all .3s ease-in-out;
@@ -909,7 +906,7 @@ button .ripple {
 .shopping_cart i:active,
 .shopping_cart i:focus {
 	background: rgba(0,0,0,0.1);
-	color: rgba(0, 0, 0, 0.12);
+	color: rgba(0, 0, 0, 0.5);
 	transition: all .3s ease-in-out;
 	-webkit-transition: all .3s ease-in-out;
 	-o-transition: all .3s ease-in-out;
@@ -1471,7 +1468,7 @@ input#submit {
     padding: 0 4px;
     font-size: 13px;
     outline: none;
-    opacity: 0.3;
+    cursor: pointer;
 }
 .we_work_with {
 	margin-top: 20px;

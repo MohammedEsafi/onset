@@ -233,7 +233,7 @@
 	</section>
 	<!-- end our services section -->
 	<!-- start about our company section -->
-	<section class="section_o_back">
+	<section class="section_o_back" id="about">
 		<div class="container">
 			<!-- start heading and description of section -->
 			<div class="header_section">
@@ -1648,10 +1648,7 @@
 							<div class="form-group">
 								<textarea class="form-control" placeholder="Your message" name="message"></textarea>
 							</div>
-							<div class="w-100 error">
-								<p id="mail_error"></p>
-							</div>
-							<input id="submit" class="submit" type="submit" value="Send Message" disabled>
+							<input id="submit" class="submit" type="submit" value="Send Message">
 						</form>
 						<!-- end Message content -->
 					</div>
