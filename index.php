@@ -1523,7 +1523,7 @@
 								    		<input type="text" name="b_67afd0e2ccc3110f49f658307_b85e8d7227" tabindex="-1" value="">
 								    	</div>
 								    	<div class="clear">
-								    		<input type="submit" value="I'M READY !" name="subscribe" id="mc-embedded-subscribe" class="button">
+								    		<input type="submit" value="I'M READY" name="subscribe" id="mc-embedded-subscribe" class="button">
 								    	</div>
 								    </div>
 								</form>

@@ -18,7 +18,7 @@ Version      : 1.0
    .navbar-light .navbar-nav > .nav-item {
         border-top: 1px solid rgba(200,204,207,.25);
         border-left: none;
-        height: initial;
+        height: auto;
     }
     .navbar-light .navbar-nav > .nav-item a::before {
         display: none;
@@ -29,41 +29,27 @@ Version      : 1.0
     .navbar-nav .nav-link {
         padding: 1.4em 0;
     }
-    .navbar-light .navbar-nav > .nav-item a {
-        display: -webkit-box;
-        display: -webkit-flex;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-align: center;
-        -webkit-align-items: center;
-        -ms-flex-align: center;
-        align-items: center;
-        -webkit-box-pack: inherit !important;
-        -webkit-justify-content: inherit !important;
-        -ms-flex-pack: inherit !important;
-        justify-content: inherit !important;
-        -webkit-box-orient: inherit !important;
-        -webkit-box-direction: inherit !important;
-        -webkit-flex-direction: inherit !important;
-        -ms-flex-direction: inherit !important;
-        flex-direction: inherit !important;
+   .navbar-light .navbar-nav > .nav-item a {
+        text-align: left;
+        display: block;
     }
     .account .nav-item {
         width: 50%;
         border-top: 1px solid rgba(200,204,207,.25);
         border-right: 1px solid rgba(158, 158, 158, 0.3);
         border-bottom: 1px solid rgba(218, 212, 212, 0.86);
-        height: initial;
+        height: auto;
     }
     .account .nav-item:last-child {
-        border-right: initial;;
+        border-right: none;
     }
     .account .nav-item .nav-link span {
         display: none;
     }
     .navbar-light .navbar-nav .nav-link i {
         margin-bottom: 0;
-        width: 35px;
+        margin: 0 5px 0 10px;
+        display: inline;
     }
     .navbar-light .navbar-nav .sign-up i ,
     .navbar-light .navbar-nav .login i {
@@ -98,11 +84,14 @@ Version      : 1.0
     }
     .footer_menu {
         width: 100%;
-        float: initial;
+        float: none;
     }
     .footer_list_menu {
         float: inherit;
         text-align: center;
+    }
+    .footer_list_menu li {
+        margin-bottom: 10px;
     }
 }
 /* =================================================================================
@@ -412,7 +401,7 @@ Version      : 1.0
     .footer_list_menu li {
         width: 100%;
         text-align: center;
-        float: initial;
+        float: none;
     }
     .footer_list_menu li h5 {
         font-size: 10px;
