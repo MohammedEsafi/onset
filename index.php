@@ -178,7 +178,7 @@
 							<li class="first cucumber active" value="1">
 								<div class="square">
 									<a>
-										<img src="img/svg/design.svg">
+										<img src="img/svg/design.svg"><!-- img of tab1 -->
 									</a>
 								</div>
 							</li>
@@ -186,7 +186,7 @@
 							<li class="second cucumber" value="2">
 								<div class="square">
 									<a>
-										<img src="img/svg/development.svg">
+										<img src="img/svg/development.svg"><!-- img of tab2 -->
 									</a>
 								</div>
 							</li>
@@ -194,7 +194,7 @@
 							<li class="third cucumber" value="3">
 								<div class="square">
 									<a>
-										<img src="img/svg/test.svg">
+										<img src="img/svg/test.svg"><!-- img of tab3 -->
 									</a>
 								</div>
 							</li>
@@ -202,7 +202,7 @@
 							<li class="fourth cucumber" value="4">
 								<div class="square">
 									<a>
-										<img src="img/svg/seo.svg">
+										<img src="img/svg/seo.svg"><!-- img of tab4 -->
 									</a>
 								</div>
 							</li>
