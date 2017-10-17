@@ -1,7 +1,7 @@
 /*
 * ----------------------------------------------------------------------------------
 Author       : Evenows
-Template Name: Magic Ows - Portfolio Template
+Template Name: Evenows - Portfolio Template
 Version      : 1.0
 * ----------------------------------------------------------------------------------
 */
@@ -347,5 +347,15 @@ $(document).ready(function(){
       }
     }
     $("#subject").val(str);
+  });
+});
+/* =================================================================================
+ * Loading Screen
+ * ================================================================================= */
+$(window).on('load', function () {
+  $(".loading_overlay .spinner").fadeOut(2000, function () {
+      $(this).parent().fadeOut(2000, function () {
+        $(this).remove();
+      });
   });
 });

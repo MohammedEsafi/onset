@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<!-- page title -->
-	<title>Magic Ows Inc</title>
+	<title>Evenows Inc</title>
 	<!-- shortcut icon -->
 	<link href="img/shortcut_icon.ico" rel="shortcut icon">
 	<!-- bootstrap css  -->
@@ -29,6 +29,15 @@
 	<![endif]-->
   </head>
   <body>
+  	<!-- start section loading -->
+  	<section class="loading_overlay">
+		<div class="spinner">
+		  <div class="bounce1"></div>
+		  <div class="bounce2"></div>
+		  <div class="bounce3"></div>
+		</div>
+  	</section>
+  	<!-- end section loading -->
   	<!-- start header -->
 	<header>
 		<!-- start navigation bar -->
